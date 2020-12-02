@@ -1,0 +1,127 @@
+.nav-link{
+font-size: 1.2rem;
+/* font-family: "Montserrat-Light"; */
+/* color: aqua; */
+font-family: "Montserrat-Light";
+}
+h1{
+    font-family: 'Castoro', serif;
+}
+.section2-div1{
+text-align: center;
+padding-top: 40px;
+/* background-image: url("for-study-1.jpg"); */
+background-color: #EBEDEF;
+height: 300px;
+
+   
+} 
+.search-icon{
+    margin-right: 1%;
+}
+
+
+/* <!--Section2--> */
+.inspiration{
+    padding: 2% 10% 2% 10%;
+}
+.myImage{
+    border-radius: 50%;
+    height: 15%;
+    width: 15%;
+}
+ .section2-div2{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;  
+    
+    background-color: rgb(207, 231, 223); 
+} 
+.imageMotivation{
+    padding-top: 2%;
+}
+.sec2-h1{
+    padding-top: 5.5%;
+}
+
+/* Section3 */
+/* .section3{
+    height: auto;
+    width: auto;
+} */
+.sec3-div1{
+    height: 300px;
+    width: auto;
+    
+    
+}
+.sec3-div2{
+    height: 300px;
+    width: auto;
+   
+}
+.sec3-div3{
+    height: 300px;
+    width: auto;
+    
+}
+.sec3-div4{
+    height: 300px;
+    width: auto;
+    
+}
+.sec3-common-div{
+    text-align: center;
+    background-color: #FEF5E7 ;
+}
+.sec3-h2{
+    padding-top: 8%;
+}
+.sec3-h4{
+    padding-top: 1%;
+    font-family: 'Castoro', serif;
+}
+
+
+/* Section4 */
+
+.section4{
+    height: 200px;
+    width: auto;
+}
+.sec4-div1{
+    background-color: #FDFEFE;
+    width: 34%;
+    height: 100px;
+    
+    
+}
+.sec4-div2{
+    background-color: #FDFEFE;
+    width: 34%;
+    height: 100px;
+}
+    
+.sec4-div3{
+    background-color:  #FDFEFE;
+    width: 32%;
+    height: 100px;
+}
+.sec4-common-div{
+       float: left;
+       
+}
+.sec4-main-div{
+    padding-top: 6%;
+}
+
+.sec4-p1{
+    padding-left: 5%;
+}
+.sec4-icons1{
+    padding-left: 30%;
+}
+.sec4-icons2{
+    padding-left: 30%;
+    padding-top: 15%;
+}
